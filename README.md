@@ -20,7 +20,7 @@ Remote sensing change detection is an important problem in remote sensing in whi
 These models are trained in a supervised manner using a supervised loss function such as Cross-Entropy (CE) by utilizing annotated training samples.
 
 | Method       | Network Architecture   | Used Datasets | Other Comments
-| :---         |     :---:      |          ---: |
+| :---         |     :---:      |          ---: | ---: |
 | git status   | git status     | git status    | |
 
 
