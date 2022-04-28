@@ -11,6 +11,7 @@ Remote sensing change detection is an important problem in remote sensing in whi
 
 <p align="center">
   <img src="/imgs/Github-RS-CD-Review.jpeg" width="400">
+  <em>image_caption</em>
 </p>
 
 
