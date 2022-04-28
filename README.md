@@ -13,7 +13,7 @@ Remote sensing change detection is an important problem in remote sensing in whi
   <img src="/imgs/Github-RS-CD-Review.jpeg" width="400">
 </p>
 <p align="center">
-    <em> Figure: The change detection model takes pre-change and post-change image pair as the input and outputs the pixel-wise change predictions.</em>
+    <em> Figure: The change detection model takes pre-change and post-change image pair as the input and outputs the corresponding pixel wise change/no-change labels. The change detection model can be trained in a supervised, semi-supervised, or unsupervised way.</em>
 </p>
 
 
