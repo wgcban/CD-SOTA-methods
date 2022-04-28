@@ -17,4 +17,6 @@ Remote sensing change detection is an important problem in remote sensing in whi
 </p>
 
 ## Available SOTA supervised change detection modthods
+These models are trained in a supervised manner using a supervised loss function such as Cross-Entropy (CE) by utilizing annotated training samples.
+
 
